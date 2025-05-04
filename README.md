@@ -96,7 +96,7 @@ void main() async {
 ## 🏃 Getting Started
 
 ```bash
-git clone https://github.com/your-username/emcus-flutter-app.git
+git clone https://github.com/gauravsarvaiya/EMCUS_APP.git
 cd emcus-flutter-app
 flutter pub get
 flutter run

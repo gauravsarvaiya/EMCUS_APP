@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "839066827037",
+    "project_id": "emcusauth",
+    "storage_bucket": "emcusauth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839066827037:android:36583a1ae82a741c61c9f4",
+        "android_client_info": {
+          "package_name": "com.example.emcus_project_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXDoZudJvh0gxuD-TDmUCNIhtWqOoFXAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -7,10 +7,16 @@ A modular, scalable Flutter application with Firebase authentication, persistent
 
 ---
 
-## 📸 Demo
+## 📸 Video-Demo
 
 [ https://drive.google.com/drive/folders/1TAeVSqBktK0HYePnh6-CAMjofe7OS6Di?usp=sharing ]
 🧪 Includes authentication, splash logic, login persistence, and bottom navigation.
+
+---
+
+## 📸 EMCUS APK
+
+[ https://drive.google.com/drive/folders/1A1mroUaIXFIJcIsi1HPQRgMlj_LowaM9?usp=drive_link ]
 
 ---
 

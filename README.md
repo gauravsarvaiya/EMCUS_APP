@@ -7,19 +7,28 @@ A modular, scalable Flutter application with Firebase authentication, persistent
 
 ---
 
+<<<<<<< HEAD
 ## 📸 Video-Demo
 
 [ https://drive.google.com/drive/folders/1TAeVSqBktK0HYePnh6-CAMjofe7OS6Di?usp=sharing ]
+=======
+## 📸 Demo
+
+https://drive.google.com/drive/folders/1TAeVSqBktK0HYePnh6-CAMjofe7OS6Di?usp=sharing
+>>>>>>> f2c92a5 (Initial commit with full Flutter source code)
 🧪 Includes authentication, splash logic, login persistence, and bottom navigation.
 
 ---
 
+<<<<<<< HEAD
 ## 📸 EMCUS APK
 
 [ https://drive.google.com/drive/folders/1A1mroUaIXFIJcIsi1HPQRgMlj_LowaM9?usp=drive_link ]
 
 ---
 
+=======
+>>>>>>> f2c92a5 (Initial commit with full Flutter source code)
 ## 📁 Project Structure
 
 ```
@@ -31,7 +40,11 @@ lib/
 │   │   ├── provider/             # State management with Provider
 │   │   ├── repo/                 # Authentication repository
 │   │   ├── route/                # Routes related to auth
+<<<<<<< HEAD
 │   │   └── view/                 # Auth-related UI screens
+=======
+│   │   └── view/                 # Auth-related UI screens ( login,signup)
+>>>>>>> f2c92a5 (Initial commit with full Flutter source code)
 │   ├── bottom_nav/               # Bottom navigation handling
 │   ├── daignostics/              # Diagnostics screen
 │   ├── dashboard/                # Dashboard & home views
@@ -69,8 +82,13 @@ lib/
 2. Create a new project
 3. Enable **Email/Password Authentication**
 4. Download config files:
+<<<<<<< HEAD
    - `google-services.json` → `android/app/`
    - `GoogleService-Info.plist` → `ios/Runner/`
+=======
+    - `google-services.json` → `android/app/`
+    - `GoogleService-Info.plist` → `ios/Runner/`
+>>>>>>> f2c92a5 (Initial commit with full Flutter source code)
 5. Add Firebase dependencies:
 
 ```yaml
@@ -96,7 +114,11 @@ void main() async {
 ## 🏃 Getting Started
 
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/gauravsarvaiya/EMCUS_APP.git
+=======
+git clone https://github.com/your-username/emcus-flutter-app.git
+>>>>>>> f2c92a5 (Initial commit with full Flutter source code)
 cd emcus-flutter-app
 flutter pub get
 flutter run
@@ -114,7 +136,11 @@ Generate release build:
 flutter build apk --release
 ```
 
+<<<<<<< HEAD
 Final APK will be available at:  
+=======
+Final APK will be available at:
+>>>>>>> f2c92a5 (Initial commit with full Flutter source code)
 ```
 build/app/outputs/flutter-apk/app-release.apk
 ```
@@ -135,6 +161,18 @@ Else → LoginScreen
 ```
 
 ---
+<<<<<<< HEAD
+=======
+
+## 📸 Screenshots
+
+| Splash | Login | Dashboard |
+|--------|-------|-----------|
+| ![Splash](assets/screens/splash.png) | ![Login](assets/screens/login.png) | ![Dashboard](assets/screens/dashboard.png) |
+
+---
+
+>>>>>>> f2c92a5 (Initial commit with full Flutter source code)
 ## 📄 License
 
 MIT License.  
@@ -144,9 +182,18 @@ See `LICENSE` file for details.
 
 ## 👤 Author
 
+<<<<<<< HEAD
 **Gaurav Sarvaiya**
 
 - GitHub: [@gauravsarvaiya](https://github.com/gauravsarvaiya)
 - LinkedIn: [Gaurav Sarvaiya](https://www.linkedin.com/in/sgauravdev/)
+=======
+**Gaurav Saroja**
+
+- GitHub: [@gauravsarvaiya](https://github.com/gauravsarvaiya)
+- LinkedIn: [Gaurav Saroja](https://linkedin.com/in/sgauravdev/)
+
+---
+>>>>>>> f2c92a5 (Initial commit with full Flutter source code)
 
 
